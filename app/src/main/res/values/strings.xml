@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">AmitProject</string>
+
+    <string name="str_username_hint">UserName</string>
+    <string name="str_password_hint">Password</string>
+    <string name="str_no_account_txt">Haven\'t account ?</string>
+    <string name="str_register_txt">Register</string>
+
+    <string name="str_login_txt">Login</string>
+    <string name="str_name_hint">Name</string>
+    <string name="str_email_hint">E-mail</string>
+    <string name="str_city_hint">City</string>
+    <string name="str_mobile_hint">Mobile</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="str_enter_valid_value">Please Enter Valid Value</string>
+    <string name="str_invalid_login_message">Invalid UserName or Password</string>
+    <string name="str_registered_successfully">You have Registered Successfully</string>
+    <string name="str_not_registered_successfully">Registration Failed</string>
+    <string name="str_Location_type">Location Type: </string>
+    <string name="str_distance">Distance</string>
+    <string name="str_search">Search</string>
+
+    <string name="logout_message">Are you sure you want to Logout?</string>
+    <string name="logout">Logout</string>
+    <string name="str_side_menu_about_us_txt">About</string>
+    <string name="str_side_menu_change_language_txt">Change Language</string>
+    <string name="str_side_menu_logout_txt">Logout</string>
+    <string name="str_not_home_message">Search for nearest places through selecting places and the distance in meter</string>
+
+
+
+ </resources>

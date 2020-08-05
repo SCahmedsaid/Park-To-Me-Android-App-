@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="str_username_hint">أسم المستخدم</string>
+    <string name="str_password_hint">كلمة السر</string>
+    <string name="str_no_account_txt"> ليس لديك حساب ؟</string>
+    <string name="str_register_txt">تيسجيل</string>
+    <string name="str_login_txt">دخول</string>
+    <string name="str_name_hint">الأسم</string>
+    <string name="str_email_hint">الايميل</string>
+    <string name="str_city_hint">المدينة</string>
+    <string name="str_mobile_hint">رقم الموبايل</string>
+
+    <string name="str_enter_valid_value">من فضلك أدخل فيمة صحيحة</string>
+    <string name="str_invalid_login_message">اسم المستخدم او كلمة السر غير صحيحة</string>
+    <string name="str_registered_successfully">لقد تم التسجيل بنجاح</string>
+    <string name="str_not_registered_successfully">لقد فشل التسجيل</string>
+    <string name="str_not_home_message">أبجث عن اقرب الأماكن عن طريق تحديد نوع المكان والمسافة بالمتر.</string>
+    <string name="str_Location_type">نوع المكان</string>
+    <string name="str_distance">المسافة</string>
+    <string name="str_search">أبحث</string>
+    <string name="logout_message">هل أنت متأكد من تسجيل الخروج؟</string>
+    <string name="logout">خروج</string>
+    <string name="str_side_menu_about_us_txt">عنا</string>
+    <string name="str_side_menu_change_language_txt">تغيير اللغة</string>
+    <string name="str_side_menu_logout_txt">خروج</string>
+
+</resources>
